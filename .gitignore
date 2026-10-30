@@ -1,0 +1,10 @@
+.env
+.env.local
+*.env
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+out/judge_cache.json
+.DS_Store
